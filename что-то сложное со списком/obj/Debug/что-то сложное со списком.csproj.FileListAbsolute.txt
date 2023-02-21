@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\bin\Debug\что-то сложное со списком.exe.config
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\bin\Debug\что-то сложное со списком.exe
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\bin\Debug\что-то сложное со списком.pdb
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\obj\Debug\что-то сложное со списком.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\obj\Debug\что-то сложное со списком.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\obj\Debug\что-то сложное со списком.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\obj\Debug\что-то сложное со списком.exe
+C:\Users\USER\Documents\Программы\что-то сложное со списком\что-то сложное со списком\obj\Debug\что-то сложное со списком.pdb
